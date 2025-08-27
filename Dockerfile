@@ -1,3 +1,5 @@
+# syntax=docker/dockerfile:1
+
 ARG YQ_VERSION=4.24.5
 ARG NODE_VERSION=22.13.0
 ARG DEBIAN_VERSION=bookworm
